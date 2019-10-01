@@ -3,7 +3,7 @@
 ##The dataset is time series (10/Jun/2014 - 31/Dec/2017) data of various online sensors and other measured attributes for a CGC unit. 
 
 ## Data Description
-index                             Column names
+    index                             Column names
     0                 1st Stage Suction Temperature
     1                    1st Stage Suction Pressure
     2               1st Stage Discharge Temperature
